@@ -8,6 +8,8 @@ Brief description of the project : An application to learn/view information abou
 
 Link to UML: [UML Diagram](https://github.com/swastidadhich/CS3200Movies-Series/blob/6c5e5499cb1ab3b876e714b5b449b60ba31f3983/db_design_final_project_UML.pdf)
 
+Link to full project description: [Description](https://docs.google.com/document/d/1s9QCsg_KYVC-xjHcwp63EFexT4guiR_4cBfk_GKGdeI/edit?usp=sharing)
+
 Description of user data model: A data model to represent a user with specific parameters. A user has a unique user id, first name, last name, username, password, email, date of birth, and favorite series. 
 
 Description of the two domain object data models: Our two domain object data models are a cast and a movie. A series can have multiple movies but only one cast. 
