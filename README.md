@@ -6,9 +6,9 @@ Team members and the section they belong to: Anika Das - Section 3, Mirah Gordon
 
 Brief description of the project : An application to learn/view information about a movie series, including its individual movies, actors, etc. Users can make an account to view this information and also choose a series that is their favorite to be linked to. 
 
-Link to the latest data model as a single UML class diagram. The UML class diagram should be a single PDF document called db_design_final_project_UML.pdf and linked from the README 
+Link UML: [UML Diagram](https://github.com/swastidadhich/CS3200Movies-Series/blob/6c5e5499cb1ab3b876e714b5b449b60ba31f3983/db_design_final_project_UML.pdf)
 
-https://github.com/swastidadhich/CS3200Movies-Series/blob/6c5e5499cb1ab3b876e714b5b449b60ba31f3983/db_design_final_project_UML.pdf
+
 
 Description of user data model: A data model to represent a user with specific parameters. A user has a unique user id, first name, last name, username, password, email, date of birth, and favorite series. 
 
