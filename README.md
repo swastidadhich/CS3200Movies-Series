@@ -1,6 +1,7 @@
 # CS3200Movies-Series
 
 Name of the project: WikiMovie
+
 Team members and the section they belong to: Anika Das - Section 3, Mirah Gordon - Section 3, Swasti Dadhich - Section 3, Emily Gringorten - Section 4 
 
 Brief description of the project : 
