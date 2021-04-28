@@ -20,4 +20,4 @@ Description of the domain object to domain object relationship: A cast can have 
  
 Description of the portable enumeration(s): A movies genre can be one of "horror, comedy, drama, sci-fi, romance".
 
-Description of the user interface requirements: 
+Description of the user interface requirements: The first page opened when running index.html in the domain folder is the series page. Once a series is added, we can access the movies and cast linked to that series. In the movies page, we have the option to edit a movie. In the cast page, we have an option to add an actor to a cast. In the user list page, we can see the users that have been created. When each user is clicked, we see the user editor with which we can edit a user's fields. 
